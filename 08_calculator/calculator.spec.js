@@ -86,4 +86,4 @@ describe('factorial', () => {
   test('computes the factorial of 10', () => {
     expect(calculator.factorial(10)).toBe(3628800);
   });
-});
+}); 
